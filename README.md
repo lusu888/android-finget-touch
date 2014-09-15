@@ -1,2 +1,2 @@
-android-finget-touch
+android-finger-touch
 ====================
